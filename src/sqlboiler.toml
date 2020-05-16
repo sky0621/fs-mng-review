@@ -1,0 +1,7 @@
+[psql]
+  dbname = "reviewdb"
+  host   = "localhost"
+  port   = 29999
+  user   = "postgres"
+  pass   = "localpass"
+  sslmode= "disable"
